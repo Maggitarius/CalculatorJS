@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.calculator {
+    width: 400px;
+    margin: 50px auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.display {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 2em;
+}
+
+.keys button {
+    width: 70px;
+    height: 70px;
+    margin: 5px;
+    font-size: 1.5em;
+}
+
+.history {
+    margin-top: 20px;
+}
+
+.history h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
